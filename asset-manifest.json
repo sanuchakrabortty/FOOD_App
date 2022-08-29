@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/FOOD_App/static/css/main.781d8794.css",
-    "main.js": "/FOOD_App/static/js/main.602270ba.js",
+    "main.js": "/FOOD_App/static/js/main.8736d25a.js",
     "static/media/product4.jpg": "/FOOD_App/static/media/product4.94f1bc5d0678e2629aeb.jpg",
     "static/media/product1.jpg": "/FOOD_App/static/media/product1.8d05cbf9e77184b549db.jpg",
     "static/media/portfolio.jpg": "/FOOD_App/static/media/portfolio.37317f30bbee54e203b3.jpg",
-    "static/media/avatar1.jpeg": "/FOOD_App/static/media/avatar1.d37df0395195993244c9.jpeg",
     "static/media/hero.jpg": "/FOOD_App/static/media/hero.160610bbf5f99adb33b3.jpg",
     "static/media/product3.jpg": "/FOOD_App/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
     "static/media/product2.jpg": "/FOOD_App/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/avatar.jpeg": "/FOOD_App/static/media/avatar.c271c0eba9c54b023dcd.jpeg",
     "static/media/FoodAddict.png": "/FOOD_App/static/media/FoodAddict.b9d3ce038fac5804db86.png",
     "static/media/HeroDesign.png": "/FOOD_App/static/media/HeroDesign.70d4607cd228844ffa52.png",
     "index.html": "/FOOD_App/index.html",
     "main.781d8794.css.map": "/FOOD_App/static/css/main.781d8794.css.map",
-    "main.602270ba.js.map": "/FOOD_App/static/js/main.602270ba.js.map"
+    "main.8736d25a.js.map": "/FOOD_App/static/js/main.8736d25a.js.map"
   },
   "entrypoints": [
     "static/css/main.781d8794.css",
-    "static/js/main.602270ba.js"
+    "static/js/main.8736d25a.js"
   ]
 }
